@@ -1,5 +1,15 @@
 # Sioux Technologies Belgium
 
+## Welcome
+Welcome to the Sioux Technologies Belgium in GitHub.
+
+If you are a Sioux employee, and
+- you want to collaborate on the various projects and/or trainings
+- you want to use the GitHub facilities within this group to store your project, or collaborate with your colleagues
+contact Nicky Geerts to get you an invite link and get you on board.
+
+## Getting assistance
+You can find some information on how to get started setting some basic things up in the pinned Discussions. If you have questions, you can post them in the Discussions, or contact Nicky Geerts.
 
 <!--
 
